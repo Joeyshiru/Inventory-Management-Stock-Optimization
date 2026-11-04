@@ -76,13 +76,15 @@ The Excel dashboard provides visibility into inventory performance through five 
 
 It includes a Product Category slicer that dynamically filters inventory metrics and visualizations.
 
+
 ### Dashboard Overview
 
-![Inventory Dashboard Overview](Dashboard_Overview.png)
+![Inventory Dashboard Overview](Screenshot%202026-11-04%20115125.png)
 
 ### Dashboard Details
 
-![Inventory Dashboard Details](Dashboard_Details.png)
+![Inventory Dashboard Details](Screenshot%202026-11-04%20115149.png)
+  
 
 ## Conclusion
 
