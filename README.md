@@ -6,6 +6,14 @@ This project analyzes inventory levels, stock movements, reorder requirements, p
 
 The objective is to improve inventory visibility, identify stockout risks, support replenishment decisions, and provide actionable insights through an interactive dashboard.
 
+### Dashboard Overview
+
+![Inventory Dashboard Overview](Screenshot%202026-11-04%20115125.png)
+
+### Dashboard Details
+
+![Inventory Dashboard Details](Screenshot%202026-11-04%20115149.png)
+
 ## Business Objectives
 
 - Monitor current inventory levels and stock availability.
@@ -75,16 +83,6 @@ Supplier S005 recorded the longest lead time at 15 days, highlighting the import
 The Excel dashboard provides visibility into inventory performance through five KPI cards and five analytical charts.
 
 It includes a Product Category slicer that dynamically filters inventory metrics and visualizations.
-
-
-### Dashboard Overview
-
-![Inventory Dashboard Overview](Screenshot%202026-11-04%20115125.png)
-
-### Dashboard Details
-
-![Inventory Dashboard Details](Screenshot%202026-11-04%20115149.png)
-  
 
 ## Conclusion
 
